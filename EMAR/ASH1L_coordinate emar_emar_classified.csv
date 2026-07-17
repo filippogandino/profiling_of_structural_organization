@@ -1,0 +1,47 @@
+Gene;feature_type;feature_start;feature_end;info;;emar_overlap_with
+ASH1L;Enahncer;155379516;155380059; N.A.                        ; ;
+ASH1L;Enahncer;155416370;155416644; N.A.                        ; ;
+ASH1L;Enahncer;155455735;155456159; N.A.                        ; ;
+ASH1L;Enahncer;155463900;155464267; N.A.                        ; ;
+ASH1L;Enahncer;155465856;155466141; N.A.                        ; ;
+ASH1L;Enahncer;155466357;155466569; N.A.                        ; ;
+ASH1L;Enahncer;155467044;155467359; N.A.                        ; ;
+ASH1L;Enahncer;155472599;155472895; N.A.                        ; ;
+ASH1L;Enahncer;155486028;155486215; N.A.                        ; ;
+ASH1L;Enahncer;155499907;155500655; N.A.                        ; ;
+ASH1L;CTCF;155504399;155504420; considerare con valore sotto; ;
+ASH1L;Enahncer;155504289;155504686; considerare con valore sopra; ;
+ASH1L;Enahncer;155513585;155513849; N.A.                        ; ;
+ASH1L;Enahncer;155529905;155530242; N.A.                        ; ;
+ASH1L;Enahncer;155536098;155536656; N.A.                        ; ;
+ASH1L;Enahncer;155547168;155547387; N.A.                        ; ;
+ASH1L;Enahncer;155560590;155561085; N.A.                        ; ;
+ASH1L;promotore;155561536;155562036; considerare con valore sotto; ;
+ASH1L;promotore flank;155561210;155561536; considerare con valore sopra; ;
+ASH1L;Enahncer;155562037;155562682; N.A.                        ; ;
+ASH1L;promotore;155562683;155563245; N.A.                        ; ;
+ASH1L;microRNA 555;155346350;155346445; strand -                    ; ;
+ASH1L;SnRNA (RNA, U6 small nuclear 106, pseudogene);155358712;155358818; strand -                    ; ;
+ASH1L;LncRNA (ASH1L intronic transcript 1);155396010;155396978; strand-                     ; ;
+ASH1L;SnRNA (RNA, U6 small nuclear 1297, pseudogene);155419397;155419500; strand +                    ; ;
+ASH1L;Processed pseudogene (POU class 5 homeobox 1 pseudogene 4);155433178;155434262; strand +                    ; ;
+ASH1L;LncRNA (ASH1L antisense RNA 1);155562026;155570755; strand +                    ; ;
+ASH1L;emar_only;155379516;155380059; N.A.                        ; ;
+ASH1L;emar_only;155416370;155416644; N.A.                        ; ;
+ASH1L;emar_only;155455735;155456159; N.A.                        ; ;
+ASH1L;emar_only;155463900;155464267; N.A.                        ; ;
+ASH1L;emar_only;155465856;155466141; N.A.                        ; ;
+ASH1L;emar_only;155466357;155466569; N.A.                        ; ;
+ASH1L;emar_only;155467044;155467359; N.A.                        ; ;
+ASH1L;emar_only;155472599;155472895; N.A.                        ; ;
+ASH1L;emar_only;155486028;155486215; N.A.                        ; ;
+ASH1L;emar_only;155499907;155500655; N.A.                        ; ;
+ASH1L;emar_and_other;155504399;155504420; N.A.                        ; ;ctcf
+ASH1L;emar_and_other;155504289;155504686; N.A.                        ; ;ctcf
+ASH1L;emar_only;155513585;155513849; N.A.                        ; ;
+ASH1L;emar_only;155529905;155530242; N.A.                        ; ;
+ASH1L;emar_only;155536098;155536656; N.A.                        ; ;
+ASH1L;emar_only;155547168;155547387; N.A.                        ; ;
+ASH1L;emar_only;155560590;155561085; N.A.                        ; ;
+ASH1L;emar_only;155561210;155564506; N.A.                        ; ;
+ASH1L;emar_only;155479268;155479566; N.A.                        ; ;

@@ -1,0 +1,37 @@
+feature_type;ID;feature_start;feature_end;emar_overlap_with
+promotore flank; /              ;1869903;1870902;
+promotore; ENSR4_BD2P     ;1870903;1871471;
+promotore; ENSR4_9QCH     ;1898854;1899228;
+CTCF; ENSR4 5G3NK    ;1899401;1899422;
+CTCF; ENSR4 5G56X    ;1908123;1908144;
+emar_and_other; ENSR00001509502;1869744;1873347;enhancer
+emar_and_other; ENSR00001509516;1898854;1899841;"ctcf;enhancer"
+emar_and_other; ENSR00001509505;1873889;1874005;enhancer
+emar_and_other; ENSR00001509507;1874296;1874554;enhancer
+emar_and_other; ENSR00001509509;1878403;1878616;enhancer
+emar_and_other; ENSR00001822740;1879606;1879782;enhancer
+emar_and_other; ENSR00001509511;1881789;1882014;enhancer
+emar_and_other; ENSR00001509513;1887894;1888052;enhancer
+emar_and_other; ENSR00001509515;1889847;1890083;enhancer
+emar_and_other; ENSR00001509517;1907867;1908260;"ctcf;enhancer"
+emar_and_other; ENSR00001509518;1910687;1911043;enhancer
+emar_and_other; ENSR00001509520;1913096;1913537;enhancer
+emar_and_other; ENSR00001509521;1919018;1919199;enhancer
+emar_and_other; ENSR00001509523;1939756;1940574;enhancer
+emar_and_other; ENSR00001509524;1981246;1981660;enhancer
+enhancer; ENSR4_C72G     ;1871472;1873347;
+enhancer; ENSR4_74ZBW    ;1873889;1874005;
+enhancer; ENSR4_9Q4C     ;1874296;1874554;
+enhancer; ENSR4_83H94    ;1878403;1878616;
+enhancer; ENSR4_83H9R    ;1879606;1879782;
+enhancer; ENSR4_83HC3    ;1881789;1882014;
+enhancer; ENSR4_83HGK    ;1887894;1888052;
+enhancer; ENSR4_83HHP    ;1889847;1890083;
+enhancer; ENSR4_BD6S     ;1899229;1899841;
+enhancer; ENSR4_9QG4     ;1907867;1908260;
+enhancer; ENSR4_9QGW     ;1910687;1911043;
+enhancer; ENSR4_9QHL     ;1913096;1913537;
+enhancer; ENSR4 83J5L    ;1919018;1919199;
+enhancer; ENSR4 BDDN     ;1939756;1940574;
+enhancer; ENSR4_9R8C     ;1981246;1981660;
+ScaRNA (small Cajal body-specific RNA 22); ENSG00000249784;1974636;1974760;

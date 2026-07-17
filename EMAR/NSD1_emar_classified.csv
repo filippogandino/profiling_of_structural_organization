@@ -1,0 +1,30 @@
+feature_type;feature_start;feature_end;info;emar_overlap_with
+promoter flank;177130711;177131339;da considerare con quello sotto;
+promotore;177131340;177131840;da considerare con quello sopra;
+promoter flank;177131841;177132588;da considerare con quello sotto;
+promotore;177132589;177133089;da considerare con quello sopra;
+promoter flank;177133090;177133109;da considerare con quello sotto;
+promotore;177133110;177134239;da considerare con quello sopra;
+promoter flank;177134240;177134595;da considerare con quello sotto;
+promotore;177134596;177135096;da considerare con quello sopra;
+CTCF;177131886;177131907;;
+CTCF;177133927;177133948;;
+emar_and_other;177130711;177135546;;"ctcf;promoter"
+emar_and_other;177147380;177147602;;enhancer
+emar_and_other;177154034;177154326;;enhancer
+emar_and_other;177194179;177194676;;enhancer
+emar_and_other;177195390;177195640;;enhancer
+emar_and_other;177232826;177233496;;enhancer
+emar_and_other;177291194;177291387;;enhancer
+emar_and_other;177296692;177296923;finisce fuori dalla seq;enhancer
+emar_only;177299695;177305215;;
+enhancer;177147380;177147602;;
+enhancer;177154034;177154326;;
+enhancer;177194179;177194676;;
+enhancer;177195390;177195640;;
+enhancer;177232826;177233496;;
+enhancer;177291194;177291387;;
+enhancer;177296692;177296923;Un pezzo di questo emar non fa parte della sequenza del gene;
+lncRNA (novel transcript, sense intronic to NSD1;177260340;177263909;+;
+processed pseudogene (ribosomal protein L21 pseudogene 60);177264766;177265241;+;
+processed pseudogene (protein arginine methyltransferase 1 pseudogene 1);177265580;177266588;-;
